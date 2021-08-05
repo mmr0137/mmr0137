@@ -11,7 +11,7 @@
 - A website created to gather and display data about golfers/tournaments
 - Python, SQL, HTML/CSS
 - Completed for a Python Application course at Wake Tech
-- Link: 
+- *View the project [here](https://github.com/mmr0137/golf-tour)*
 
 ### Project Management Application Documentation 
 - Planned/documented the requirements and specifications for creating a project management application
